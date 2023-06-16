@@ -1,11 +1,11 @@
-About r-listviewer
-==================
+About r-listviewer-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-listviewer-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/timelyportfolio/listviewer
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-listviewer-feedstock/blob/main/LICENSE.txt)
 
 Summary: R lists, especially nested lists, can be very difficult to visualize or represent. Sometimes 'str()' is not enough, so this suite of htmlwidgets is designed to help see, understand, and maybe even modify your R lists.  The function 'reactjson()' requires a package 'reactR' that can be installed from CRAN or <https://github.com/timelyportfolio/reactR>.
 
